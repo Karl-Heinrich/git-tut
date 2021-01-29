@@ -1,6 +1,13 @@
-# Git Tutorial - How to initialize a repo in github
-Welcome to this tutorial
-Nice to have you
+# Rack Generator 
 
-Some new change, that is *not* on the new-feature branch.
-This change will _conflict_ with the existing **repository** state.
+This is a repository that houses two prototypes of a **Rack Generator**.
+
+You can view the first prototype written in _React_ by
+```sh
+git switch react-rack-generator
+```
+
+The second prototype is available at 
+```sh
+git switch js-rack-generator
+```
