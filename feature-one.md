@@ -9,3 +9,7 @@ More awesome, in fact, than the last.
 Believe me. Or don't.
 
 Anyway, I hope we will not suffer.
+
+## Chapter 2 
+
+Getting started. So as I said, did you read the documentation already?
